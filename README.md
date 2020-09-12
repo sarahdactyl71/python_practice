@@ -2,5 +2,5 @@
 
 ### Tests
  
- Pip install pytest
+ Make sure you have pytest installed: `pip install pytest`
  Run tests with `python -m pytest`
